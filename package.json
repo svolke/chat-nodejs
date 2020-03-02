@@ -1,0 +1,13 @@
+{
+    "name": "example-chat",
+    "version": "0.0.1",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-session": "^1.17.0",
+        "ws": "^7.2.1"
+    }
+}
